@@ -1,0 +1,90 @@
+1. What is Linux?
+With this question, the interviewer is examining what you know about Linux. As a developer or programmer, you’re expected to be able to explain the systems and processes you work with clearly and accurately. Linux is a Unix-like, open-source operating system developed by Linus Torvolds in 1991. You can also mention its features, such as security based on authentication and access control, application support, and customizable keywords.
+
+
+2. What are the basic components of Linux?
+Linux’s architecture consists of the following components:
+
+
+Kernel: The kernel is the core part of Linux OS that is responsible for operations and communicating between hardware and software.
+
+
+Shell: The shell is an environment in which the Linux operator runs commands, programs, and shell scripts. It is the interface between the user and kernel and is used to execute commands.
+
+
+System utility: These are software functions that allow the user to manage the computer.
+
+
+Applications: These are software programs designed to accomplish specific tasks.
+
+
+What are the real basic components?
+
+Keep in mind that different sources might cite varying core components of Linux. Whether you choose to list three or five components, to include “hardware” or not, the more important thing is to explain why these are the basic components.
+
+
+
+3. What is LILO?
+LILO stands for Linux Loader, which is a boot loader used for the Linux operating system. Most Linux OS use LILO as a master or secondary program to boot the operating system into main memory to perform functions.
+
+
+4. What is BASH?
+BASH stands for Bourne Again Shell, which is a command language interpreter that is similar to and interchangeable with Bourne Shell. BASH has some extra features and is the default user shell on many Linux installations. It can also read commands from shell scripts.
+
+
+5. What is swap space?
+A swap space is space on a hard disk used when RAM is full. It is considered an extension of RAM when the original RAM doesn’t have enough space to run all the programs or as a substitute for physical memory.
+
+
+6. What is the difference between Unix and Linux? 
+Unix is a proprietary OS with commercial versions, while Linux is free, open-source, and non-proprietary. In other words, Linux is “for the people.”
+
+
+7. What are shells used in Linux?
+Shells that are commonly used in Linux include the following:
+
+
+bash (Bourne Again Shell): This is the default shell of most Linux systems.
+
+zsh (Z Shell): Default shell for Kali Linux and macOS 
+
+ksh (Korn Shell): High-level programming language shell
+
+Csh (C Shell): Borrows from C programming language
+
+tcsh (Tenex Shell): This is a command-line shell based on the C Shell.
+
+
+8. What are process states in Linux?
+Process states in Linux include the following:
+
+
+New/Ready: This is when a process is ready to run.
+
+Running: This is when a process is being executed.
+
+Blocked/Waiting: The process needs input or a system resource.
+
+Terminated/Completed: The process has been completed or terminated by the OS.
+
+Zombie: When a process has been paused, but information is still available.
+
+
+9. What are the advantages and disadvantages of open source?
+The advantages of open source is that it is completely free and available to the public, so users can download the file and change the code as desired. As long as they use the same license, they can even sell copies of the modified code. The disadvantages of open source is that it can make the software less compatible with other hardware and systems, and make it more difficult to use. There is also no user support because it is created by potentially thousands of contributors and belongs to the public.
+
+Fun fact: The world’s largest open-source software project
+
+Linux is the world’s largest open-source software project. Anyone can run, analyze, and redistribute the source code. Programmers and developers from different industries are constantly adding features, fixing bugs and security flaws, and sharing new code ideas. Open source is an excellent way for developers to give back to the community.
+
+
+
+10. What are the different types of file permissions in Linux?
+There are three different types of file permissions in Linux, which can be used by the three types of owners (user, group, others):
+
+
+Read: Users can open and view the file, but may not modify or run it.
+
+Write: Users can open and modify the file but they cannot execute it.
+
+Execute: Users can execute the file.

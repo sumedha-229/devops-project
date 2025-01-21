@@ -1,0 +1,11 @@
+Interview Questions
+1. What is EC2?
+2. What is SnowBall?
+3. What is CloudWatch?
+4. What is Elastic Transcoder?
+5. What do you understand by VPC?
+6. DNS and Load Balancer Services come under which type of Cloud Service?
+7. What are the Storage Classes available in amazon s3?
+8. Explain what T2 instances are?
+9. What are Key-Pairs in AWS?
+10. How many Subnets can you have per VPC?
