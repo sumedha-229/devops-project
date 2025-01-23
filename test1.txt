@@ -1,0 +1,159 @@
+1.The full form of Amazon EBS is Amazon Elastic Block Store	
+  The full form of Amazon EFS is Amazon Elastic File System
+
+  It is used to provide the block-level storage volumes for the use of EC2 instances	
+  It is simple to use
+  
+  It is mainly used for data that should be quickly accessible and requires long term durability	
+  It is used in modernize application development
+
+2.the location of the software and infrastructure
+
+On-premise
+The software is installed and runs on the company's own hardware and infrastructure, which is hosted locally
+
+Cloud
+The software is stored and managed on a third-party provider's servers, and accessed through the web
+
+3.1)S3 Standard
+  2)S3 Intelligent-Tiering 
+  3)S3 Standard-IA
+  4)S3 One Zone-IA
+
+4.to connect aws 
+  1)iam
+  2)user
+  3)security crendintial
+4)access keys 
+5)creat access keys
+6)commandline interface(tick)
+7)confermatation(tick)
+8)set description (aws cli)
+9)creat access key
+10)download.csv.file
+11)done
+12)command prompt
+13)type the command 
+
+5. 1)Open the CloudWatch console
+2)Select Dashboards from the left panel
+3)Click Create Dashboard
+4)Enter a name for the dashboard
+5)Select a widget type to configure and add to the dashboard
+6)Click Create dashboard
+
+6. Open the CloudWatch
+choose Alarms
+Choose Create alarm
+Choose Select Metric
+choose EC2
+check box in the row with the correct instance 
+Choose the metrics
+choose Average
+Choose a period
+Select metric
+choose Static
+Choose Next
+choose an existing SNS topic
+choose In alarm
+Choose Next
+Enter a name for the alarm 
+Then choose Next
+confirm that the information and conditions
+then choose Create alarm
+
+7. 1)cloud computing means the data that stored in the cloud and that can be featched 
+ any time and from anywhere is known as cloud computing.
+
+2)key pair means we have to genarate the key pair to 
+ connect any server that is known as key pair.
+
+3)ec2 server means we have to create the server on ec2 and then we should connect 
+ the server with another server that is known as ec2 server.
+
+8. to launch the linux server in the aws we need to follow some steps 
+  1)we should create 2 server in aws
+  2)then connect them with each other by using the commands
+  3)then take the backup 
+  4)and then launch the web page 
+  5)then delete the main server 
+  6)you will see that the web page is still running in the backup
+  7)because we have taken the backup
+
+9. creation the ec2 server to attach the volume
+1)create ec2 server
+2)and then attach the volume for the server 
+3)to attach the volume we should add volume that is (5gb)
+4)and then click on add volume and go ferther
+5)and then take the backup of the server
+6)and after the backup delete the server
+7)but still you will see that the server is runnig at the back
+8)just because of the backup 
+
+10. public, private and hybrid community cloud 
+1)public cloud means that cloud data can be accessed by the public anytime it is open for everyone
+
+2)private cloud means that cloud data can be accessed only by the organization
+  it is not open for everyone it is limited only for the organization
+
+3)hybrid cloud means the cloud data can be accessed by both public cloud as well as 
+  private cloud so it is known as hybrid cloud
+
+11. to create alaram in cloudwatch
+1)we should create ec2 server 
+2)and the dublicate the aws and create one more aws
+3)so that we can create clockwatch 
+4)create clockwatch 
+5)and then create IAM 
+6)then set the time in clockwatch that is (5 minutes)
+7)then choose the location 
+8)then choose the number in the sence (you want it in the form of number, graphs, data, pia chart ect)
+9)then set the alaram 
+10)wait for 5 min the alaram will ring 
+11)before ringing it will show (1) that means it have to complete the task (it will show that in task bar)
+12)after ringing the alaram the server will automatically terminate 
+13)we should terminate the IAM 
+14)and also terminate clockwatch
+
+12. to create cdn 
+1)we should create ec2 server
+2)and duplicate the server and create the cdn 
+3)create the bucket first
+4)and create the IAM as well 
+5)then start creating cdn 
+6)give some unique name for cdn 
+7)then upload the file 
+8)then go to policy and then copy and paste it there 
+9)after that click (ok) for ferther steps
+10)and then go to the distribution id copy the id 
+11)and paste thedistributin id in the browser
+12)you will see the file there which you had uploaded 
+
+13. versioning and cross resion
+ 1)Create Buckets in S3
+ 2)Create an IAM User
+ 3)Configuring the Bucket Policy in S3
+ 4)Initializing Cross Region Replication in S3
+  
+
+14.cloud computing model  
+
+
+                   cloud coumpting 
+                          |
+                          |
+
+           public cloud        private cloud
+                   \             /
+                    hybrid cloud
+
+15. sns means Social Networking Service
+
+
+
+
+
+
+
+
+
